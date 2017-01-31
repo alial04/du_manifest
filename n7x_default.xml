@@ -31,7 +31,7 @@
   <project path="bootable/recovery" name="android_bootable_recovery" remote="du" revision="n7x" />
   <project path="development" name="android_development" remote="du" revision="n7x" />
   <project path="libcore" name="android_libcore" remote="du" revision="n7x" />
-  <project path="manifest" name="The-DarkBeast/android_manifest" remote="github" revision="n7x-caf" />
+  <project path="manifest" name="tansanrao/android_manifest" remote="github" revision="n7x-caf" />
 
   <!-- external -->
   <project path="external/changeloglib" name="android_external_changeloglib" remote="du" revision="n7x" />
