@@ -53,7 +53,7 @@
   <project path="external/ffmpeg" name="android_external_ffmpeg"  remote="laos" />
   <project path="external/fuse" name="android_external_fuse"  remote="laos" />
   <project path="external/gptfdisk" name="android_external_gptfdisk" groups="pdk-fs" remote="laos"/>
-  <project path="external/mm-dash" name="android_external_mm-dash"  remote="laos" />
+  <project path="external/mm-dash" name="android_external_mm-dash"  remote="laos" revision="cm-14.0"/>
   <project path="external/ntfs-3g" name="android_external_ntfs-3g"  remote="laos" />
   <project path="external/okhttp" name="android_external_okhttp" groups="pdk-cw-fs,pdk-fs" remote="laos" />
 
